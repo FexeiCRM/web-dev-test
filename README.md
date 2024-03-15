@@ -30,5 +30,6 @@ Desenvolver uma aplicação web para gerenciar tarefas (to-do list) que permita 
 - **Uso do Git:** Histórico de commits.
 
 ## Entrega
+- Você terá o um prazo de **7 dias** para realizar o desafio.
 - Disponibilizar o código em um repositório (GitHub, GitLab, etc).
 - Incluir um README com instruções para executar o projeto localmente.
