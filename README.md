@@ -37,4 +37,5 @@ Desenvolver uma aplicação web para gerenciar tarefas (to-do list) que permita 
 ## Referências
 - [refine.dev](https://refine.dev)
 - [reactjs.org](https://reactjs.org)
+- [supabase.com](https://supabase.com)
 
