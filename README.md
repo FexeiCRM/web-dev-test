@@ -1,5 +1,5 @@
 
-# Teste para Desenvolvedor Web Júnior (Fullstack)
+# Teste para Desenvolvedor Web (Fullstack)
 
 ## Descrição
 Desenvolver uma aplicação web para gerenciar tarefas (to-do list) que permita aos usuários criar, visualizar, editar e deletar tarefas. Utilize React.js para o frontend, integrado com backend e banco de dados fornecidos pelo Supabase, e aproveite o Refine para acelerar o desenvolvimento do frontend.
