@@ -33,3 +33,8 @@ Desenvolver uma aplicação web para gerenciar tarefas (to-do list) que permita 
 - Você terá o um prazo de **7 dias** para realizar o desafio.
 - Disponibilizar o código em um repositório (GitHub, GitLab, etc).
 - Incluir um README com instruções para executar o projeto localmente.
+
+## Referências
+- [refine.dev](https://refine.dev)
+- [reactjs.org](https://reactjs.org)
+
